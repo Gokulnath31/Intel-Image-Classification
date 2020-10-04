@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 2. Download the weights and place it in the cloned repository(inside Intel-Image-Classification)
 
-    Weights :
+    Weights :  https://drive.google.com/file/d/1OC-kvZgWReb6sKW-O8wnDj_0P2GGce0D/view?usp=sharing
 
 3. Run the api.py to start your flask server
 
